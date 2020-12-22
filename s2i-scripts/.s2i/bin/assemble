@@ -18,7 +18,7 @@ DATEVAR=$(date "+%Y-%m-%d")
 
 echo "---> Creating info page"
 echo "Page built on $DATEVAR" >> ./info1.html
-echo "Proudly served by Apache HTTP Server version $HTTPD_VERSION" >> ./info11111111111.html
+echo "Proudly served by Apache HTTP Server version $HTTPD_VERSION" >> ./info1.html
 
 ######## CUSTOMIZATION ENDS HERE ############
 
