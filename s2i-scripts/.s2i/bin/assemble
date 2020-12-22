@@ -17,8 +17,8 @@ cp -Rf /tmp/src/*.html ./
 DATEVAR=$(date "+%Y-%m-%d")
 
 echo "---> Creating info page"
-echo "Page built on $DATEVAR" >> ./info.html
-echo "Proudly served by Apache HTTP Server version $HTTPD_VERSION" >> ./info.html
+echo "Page built on $DATEVAR" >> ./info1.html
+echo "Proudly served by Apache HTTP Server version $HTTPD_VERSION" >> ./info11111111111.html
 
 ######## CUSTOMIZATION ENDS HERE ############
 
